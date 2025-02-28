@@ -6,8 +6,23 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker" : "minerva",
+			"dialog" : "OK but low key I'm not your muse lol",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "luffy",
+			"dialog" : "I'm Luffy",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "luffy",
+			"dialog" : "I'm the captain of the straw hat pirates!"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "homer",
